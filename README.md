@@ -19,9 +19,7 @@ Dependencies
 Python 3.x
 Biopython
 Pandas
-
 SQLite3 (built-in with Python)
 
 Install dependencies with:
-
 pip install -r requirements.txt
